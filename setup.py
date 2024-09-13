@@ -7,14 +7,14 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
     
 setup(
-    name="image_processing",
+    name="image_processing_ed",
     version="0.0.1",
-    author="edmaker89",
+    author='__token__',
     author_email="edmaker@gmail.com",
     description="Image Processor",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_git_hub_repository_project_link",
+    url="https://github.com/edmaker89/image-processing-package-master",
     packages=find_packages(),
     install_requires=requirements,
     python_requires=">=3.12"

@@ -1,10 +1,10 @@
 Metadata-Version: 2.1
-Name: package_name
+Name: image_processing_ed
 Version: 0.0.1
-Summary: My short descrption
-Home-page: my_git_hub_repository_project_link
-Author: my_name
-Author-email: my_email
+Summary: Image Processor
+Home-page: https://github.com/edmaker89/image-processing-package-master
+Author: __token__
+Author-email: edmaker@gmail.com
 Requires-Python: >=3.12
 Description-Content-Type: text/markdown
 
@@ -28,7 +28,7 @@ The package package_name is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
 
 ```bash
-pip install image_processing
+pip install image_processing_ed
 ```
 
 ## Usage
