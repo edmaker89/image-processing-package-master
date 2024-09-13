@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: image_processing
+Version: 0.0.1
+Summary: Image Processor
+Home-page: my_git_hub_repository_project_link
+Author: edmaker89
+Author-email: edmaker@gmail.com
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+
+# package_name
+
+Description. 
+The package package_name is used to:
+	Processing:
+		- Histogram matching
+		- Structural similarity
+		- Resize image
+	Utils:
+		- Read image
+		- Save image
+		- Plot image
+		- Plot result
+		- Plot histogram
+		
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
+
+```bash
+pip install image_processing
+```
+
+## Usage
+
+```python
+from package_name.module1_name import file1_name
+file1_name.my_function()
+```
+
+## Author
+Edmker89
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
